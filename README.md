@@ -30,7 +30,7 @@ Some projects and learning basics to get started with OpenCV and Computer Vision
 ---
 ## About
 ---
-
+how to get started with OpenCV Basics
 
 ## Sources
 ---
